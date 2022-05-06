@@ -7,6 +7,8 @@ To call it use
 ```
 this is the same syntax like the question 
 
+>0.25 nA has to be injected for spiking to occur
+
 Plot graphs as 
 ```
 plot(t,V)
