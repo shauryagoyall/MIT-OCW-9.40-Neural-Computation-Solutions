@@ -7,7 +7,7 @@ To call it use
 ```
 this is the same syntax like the question 
 
-$\ge$ 0.25 nA has to be injected for spiking to occur
+&lt; 0.25 nA has to be injected for spiking to occur
 
 Plot graphs as 
 ```
