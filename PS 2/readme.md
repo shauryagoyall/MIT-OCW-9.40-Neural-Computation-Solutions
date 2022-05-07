@@ -16,4 +16,5 @@ plot(t,I)
 ```
 Solutions in the pdf file besides the questions 
 
-Code to plot Firing Rate vs I_e graph was deleted by me before saving hence skipped 
+Code to plot Firing Rate vs I_e graph was deleted by me before saving hence skipped. THe plot is available as the frvsie(.jpg, .fig) file. \
+![ Firing Rate vs I_e Graph](./frvsie.jpg "Text to show on mouseover")
