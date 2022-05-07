@@ -5,7 +5,7 @@ LIFmy.m is my code for Leaky Integrate and Fire Model (Problem 2)
 To call it use
 ```
  [V,I,t,spikeTimes] = LIFmy(amp) 
-%where amp is the current you want to inject in nA,
+%where amp is the current you want to inject in nA
 ```
 this is the same syntax like the question 
 
@@ -13,8 +13,8 @@ this is the same syntax like the question
 
 Plot graphs as 
 ```
-plot(t,V)
-plot(t,I)
+plot(t,V)  % membrane potential as a function of time
+plot(t,I)  % square current pulse as a function of time
 ```
 Solutions in the pdf file besides the questions 
 
