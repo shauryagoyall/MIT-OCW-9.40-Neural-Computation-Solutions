@@ -1,3 +1,5 @@
+HHmodel has solutions and code for the Hodgkin-Huxley model 
+
 LIFmy.m is my code for Leaky Integrate and Fire Model (Problem 2) 
 
 To call it use
