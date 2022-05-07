@@ -18,5 +18,4 @@ Solutions in the pdf file besides the questions
 
 Code to plot Firing Rate vs I_e graph was deleted by me before saving hence skipped. The plot is available as the frvsie(.jpg, .fig) file. 
 
-![ Firing Rate vs I_e Graph](./frvsie.jpg "Text to show on mouseover")
-<img src="./frvsie.jpg" alt=" Firing Rate vs I_e Graph" width="100"/>
+<img src="./frvsie.jpg" alt=" Firing Rate vs I_e Graph" width="500"/>
