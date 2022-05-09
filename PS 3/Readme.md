@@ -2,11 +2,11 @@ Simulating the two compartment models of dendritic and somatic inhibition from "
 
 PDF file has my analytical solutions
 
-Somatic inhibition:
+Somatic (Proximal) inhibition:
 
 <img src="./q1_somatic_inhibition.png" alt="q1_somatic_inhibition.png" width="500">
 
-Dendritic inhibition:
+Dendritic (Distal) inhibition:
 
 <img src="./q2_dendritic_inhibition.png" alt="q2_dendritic_inhibition.png" width="500">
 
