@@ -5,11 +5,10 @@ PDF file has my analytical solutions
 Somatic inhibition:
 
 <img src="./q1_somatic_inhibition.png" alt="q1_somatic_inhibition.png" width="500">
-![q1 somatic inhibition](./q1_somatic_inhibition.png "q1_somatic_inhibition.png")
 
 Dendritic inhibition:
 
-![q2 dendritic inhibition](./q2_dendritic_inhibition.png "q2_dendritic_inhibition.png")
+<img src="./q2_dendritic_inhibition.png" alt="q2_dendritic_inhibition.png" width="500">
 
 
 
