@@ -1,6 +1,6 @@
 Solutions in PDF
 
-### 4a Tuning Curves for neuron in visual cortex
+## 4a Tuning Curves for neuron in visual cortex
 
 ***Problem1_PTSH_SDF.ipynb*** has the code I had written for the exercises \
 six.mat is the file with just data from orientation 6 \
