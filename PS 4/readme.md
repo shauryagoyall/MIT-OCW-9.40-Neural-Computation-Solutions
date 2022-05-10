@@ -4,10 +4,11 @@ Solutions in PDF
 
 **mycode.m** has my code for Problem 2 (STRF and Spike Triggered Averaging). There is a deliberate repetion of code in plots so run whatever plot you want to generate. Run generateStimulus.m and generateKernel.m before running mycode.m
 
+Plots displayed below. Search Spike Triggered to jump to plots of Spike Triggered Averaging problem \
+
 ## 4a Tuning Curves for neuron in visual cortex
 
 six.mat is the file with just data from orientation 6 \
-Plots displayed below \
 The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not able to resolve the issue. Happy to receive feedback for it !
 
 ### Raster Plot for Orientation 6
