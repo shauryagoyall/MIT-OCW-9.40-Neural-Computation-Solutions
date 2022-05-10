@@ -1,8 +1,10 @@
 Solutions in PDF
 
-## 4a Tuning Curves for neuron in visual cortex
+**Problem1_PTSH_SDF.ipynb** has my code for the Problem 1 (Tuning Curves)
 
-**Problem1_PTSH_SDF.ipynb** has the code I had written for the exercises 
+**mycode.m** has my code for Problem 2 (STRF and Spike Triggered Averaging). There is a deliberate repetion of code in plots so run whatever plot you want to generate. Run generateStimulus.m and generateKernel.m before running mycode.m
+
+## 4a Tuning Curves for neuron in visual cortex
 
 six.mat is the file with just data from orientation 6 \
 Plots displayed below \
@@ -28,3 +30,6 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 
 ### Adjusted Tuning Curve for neuron with no-stimulus firing rate removed
 <img src="./a/adjtuning.png" alt="./a/adjtuning.png" width=500>
+
+## 4b Spike Triggered Averaging to estimate auditory Spatio-temporal Receptive field
+
