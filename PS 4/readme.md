@@ -9,22 +9,22 @@ Plots displayed below \
 The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not able to resolve the issue. Happy to receive feedback for it !
 
 ### Raster Plot for Orientation 6
-<img src="./a/raster plot stimulus 6.jpg" width=500>
+<img src="./a/raster plot stimulus 6.jpg" alt="./a/raster plot stimulus 6.jpg" width=500>
 
 ### Peri-stimulus time histogram (PSTH) for Orientation 6
-<img src="./a/PTSH.png" width=500>
+<img src="./a/PTSH.png" alt="./a/PTSH.png" width=500>
 
 ### Convolution of Spike Train with Box Car Kernel for Orientation 6
-<img src="./a/conv.png" width=500>
+<img src="./a/conv.png" alt="./a/conv.png" width=500>
 
 ### Convolution of Spike Train with Gaussian for Orientation 6
-<img src="./a/gauss.png" width=500>
+<img src="./a/gauss.png" alt="./a/gauss.png" width=500>
 
 ### Spike Density Function for Orientation 6
-<img src="./a/sdf.png" width=500>
+<img src="./a/sdf.png" alt="./a/sdf.png" width=500>
 
 ### Tuning Curve for neuron
-<img src="./a/tuning.png" width=500>
+<img src="./a/tuning.png" alt="./a/tuning.png" width=500>
 
 ### Adjusted Tuning Curve for neuron with no-stimulus firing rate removed
-<img src="./a/tuning.png" width=500>
+<img src="./a/adjtuning.png" alt="./a/adjtuning.png" width=500>
