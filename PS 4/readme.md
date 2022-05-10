@@ -33,3 +33,21 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 
 ## 4b Spike Triggered Averaging to estimate auditory Spatio-temporal Receptive field
 
+### Kernel (This code is provided by MIT)
+<img src="./b/kernel.jpg" alt="./b/kernel.jpg" width=500>
+
+### Stimuli, Excitatory Drive to neuron, Spiking
+<img src="./b/plot2.jpg" alt="./b/plot2.jpg" width=500>
+
+### Spike Triggered Average (150 ms before Spike)
+<img src="./b/sta.jpg" alt="./b/sta.jpg" width=500>
+
+### Spike Triggered Average (at Spike)
+<img src="./b/atspike.jpg" alt="./b/atspike.jpg" width=500>
+
+### Spike Triggered Average (100 ms before Spike as kernel is 100 ms long)
+<img src="./b/spike100.jpg" alt="./b/aspike100.jpg" width=500>
+
+### Spike Triggered Average (150 ms - 100 ms before Spike) 
+To see issues caused by difference in STA width and kernel width
+<img src="./b/spike150100.jpg" alt="./b/aspike150100.jpg" width=500>
