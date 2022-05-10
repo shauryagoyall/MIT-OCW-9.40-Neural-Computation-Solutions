@@ -7,3 +7,6 @@ Solutions in PDF
 six.mat is the file with just data from orientation 6 \
 Plots displayed below \
 The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not able to resolve the issue. Happy to receive feedback for it !
+
+### Raster Plot for Orientation 6
+<img src="./a/raster plot stimulus 6.jpg" width=500>
