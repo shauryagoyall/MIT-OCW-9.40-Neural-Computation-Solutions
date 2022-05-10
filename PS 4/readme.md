@@ -20,7 +20,7 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 ### Convolution of Spike Train with Gaussian for Orientation 6
 <img src="./a/gauss.png" width=500>
 
-###Spike Density Function for Orientation 6
+### Spike Density Function for Orientation 6
 <img src="./a/sdf.png" width=500>
 
 ### Tuning Curve for neuron
