@@ -12,7 +12,7 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 <img src="./a/raster plot stimulus 6.jpg" width=500>
 
 ### Peri-stimulus time histogram (PSTH) for Orientation 6
-<img src="./a/ptsh.png" width=500>
+<img src="./a/PTSH.png" width=500>
 
 ### Convolution of Spike Train with Box Car Kernel for Orientation 6
 <img src="./a/conv.png" width=500>
