@@ -4,7 +4,7 @@ Solutions in PDF
 
 **mycode.m** has my code for Problem 2 (STRF and Spike Triggered Averaging). There is a deliberate repetion of code in plots so run whatever plot you want to generate. Run generateStimulus.m and generateKernel.m before running mycode.m
 
-Plots displayed below. Search Spike Triggered to jump to plots of Spike Triggered Averaging problem \
+Plots displayed below. Search Spike Triggered to jump to plots of Spike Triggered Averaging problem 
 
 ## 4a Tuning Curves for neuron in visual cortex
 
