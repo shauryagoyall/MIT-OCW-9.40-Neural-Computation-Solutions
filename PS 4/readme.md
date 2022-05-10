@@ -10,3 +10,21 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 
 ### Raster Plot for Orientation 6
 <img src="./a/raster plot stimulus 6.jpg" width=500>
+
+### Peri-stimulus time histogram (PSTH) for Orientation 6
+<img src="./a/ptsh.png" width=500>
+
+### Convolution of Spike Train with Box Car Kernel for Orientation 6
+<img src="./a/conv.png" width=500>
+
+### Convolution of Spike Train with Gaussian for Orientation 6
+<img src="./a/gauss.png" width=500>
+
+###Spike Density Function for Orientation 6
+<img src="./a/sdf.png" width=500>
+
+### Tuning Curve for neuron
+<img src="./a/tuning.png" width=500>
+
+### Adjusted Tuning Curve for neuron with no-stimulus firing rate removed
+<img src="./a/tuning.png" width=500>
