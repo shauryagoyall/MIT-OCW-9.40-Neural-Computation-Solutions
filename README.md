@@ -6,7 +6,7 @@ The files in this folder are the official problem set files including my solutio
 PS 1 - Diffusion, equivalent neuron circuit and Nernst potential \
 PS 2 - Integrate and fire and Hodgkin-Huxley models \
 PS 3 - Simulating 2 compartment models of dendritic and somatic inhibition \
-***PS 4a - Analyzing Spike trains and tuning curves from neurons in the primary visual cortex**
+***PS 4a - Analyzing Spike trains and tuning curves from neurons in the primary visual cortex** \
 ***PS 4b - Estimation of spectro-temporal receptive fields (STRF) with spiketriggered averaging (STA)**
 
 ## Link to syllabus:
