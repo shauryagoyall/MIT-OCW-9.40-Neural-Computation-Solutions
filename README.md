@@ -8,6 +8,6 @@ PS 2 - Integrate and fire and Hodgkin-Huxley models \
 PS 3 - Simulating 2 compartment models of dendritic and somatic inhibition \
 ***PS 4a - Analyzing Spike trains and tuning curves from neurons in the primary visual cortex**
 
-Link to syllabus:
+## Link to syllabus:
 
 https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/
