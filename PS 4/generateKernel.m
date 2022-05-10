@@ -1,3 +1,4 @@
+
 dt = .001;% time steps
 m = 50;% number of freqwuencies
 durK = .1; % kernel duration in seconds
