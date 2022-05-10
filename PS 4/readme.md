@@ -45,9 +45,19 @@ The frequency (ie. Y axis) labels may be incorrect for a few graphs as I was not
 ### Spike Triggered Average (at Spike)
 <img src="./b/atspike.jpg" alt="./b/atspike.jpg" width=500>
 
+The kernel had 0 contribution in the middle frequencies but the STA has still counted them
+during calculation. Although the STA plot shows low activity in these frequencies, a better
+representative would be if random activity still occurred in these frequencies yet there was
+a definite pattern of spiking. At the spikes, the STA shows high activity towrds the higher
+frequency and low activity in the lower frequency. But the kernel had both positive and
+negative contributions in the top and bottom in equal values. So STA would suggest that
+top has mainly positive contribution and bottom has mainly negative contribution which is
+not what the Kernel is.
+
 ### Spike Triggered Average (100 ms before Spike as kernel is 100 ms long)
 <img src="./b/spike100.jpg" alt="./b/aspike100.jpg" width=500>
 
 ### Spike Triggered Average (150 ms - 100 ms before Spike) 
 To see issues caused by difference in STA width and kernel width
+
 <img src="./b/spike150100.jpg" alt="./b/aspike150100.jpg" width=500>
