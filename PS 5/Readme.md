@@ -4,16 +4,21 @@ Solutions in PDF
 
 Selected plots displayed below
 
-## 4a Tuning Curves for neuron in visual cortex
+## Epileptic Vs Normal PFC signals
 
-### Raster Plot for Orientation 6
-<img src="./a/raster plot stimulus 6.jpg" alt="./a/raster plot stimulus 6.jpg" width=500>
+Epileptic had 60 Hz contamination. Normal did not have any contamination.
 
-### Peri-stimulus time histogram (PSTH) for Orientation 6
-<img src="./a/PTSH.png" alt="./a/PTSH.png" width=500>
+<img src="./images/rawepi.jpg" alt="Raw Epileptic Signal" width=500>
 
-### Convolution of Spike Train with Box Car Kernel for Orientation 6
-<img src="./a/conv.png" alt="./a/conv.png" width=500>
+<img src="./images/filtepi.jpg" alt="Filtered Epileptic Signal" width=500>
+
+<img src="./images/rawnorm.jpg" alt="Raw Normal Signal" width=500>
+
+<img src="./images/pseepi.jpg" alt="Power Spectrum Filtered Epileptic Signal" width=500>
+
+<img src="./images/specepi.jpg" alt="Spectrogram Filtered Epileptic Signal" width=500>
+
+<img src="./images/specnorm.jpg" alt="Spectrogram Normal Signal" width=500>
 
 
 
