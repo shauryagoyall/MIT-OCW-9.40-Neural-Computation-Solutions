@@ -14,7 +14,7 @@ Epileptic had 60 Hz contamination. Normal did not have any contamination.
 
 <img src="./images/rawnorm.jpg" alt="Raw Normal Signal" width=500>
 
-<img src="./images/psiepi.jpg" alt="Power Spectrum Filtered Epileptic Signal" width=500>
+<img src="./images/psepi.jpg" alt="Power Spectrum Filtered Epileptic Signal" width=500>
 
 <img src="./images/specepi.jpg" alt="Spectrogram Filtered Epileptic Signal" width=500>
 
