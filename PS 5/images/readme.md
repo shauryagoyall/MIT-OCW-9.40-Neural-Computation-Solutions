@@ -1,0 +1,1 @@
+Some selected Plots. I have used different paramter step size for the spectrograms as mentioned in the question as I liked this more. The questions have been answered as per the paramters mentioned in the question
