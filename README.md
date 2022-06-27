@@ -11,7 +11,7 @@ PS 3 - Simulating 2 compartment models of dendritic and somatic inhibition
 ***PS 4b - Estimation of spectro-temporal receptive fields (STRF) with spiketriggered averaging (STA)** \
 ***PS 5 - Analyzing Epileptic vs Normal EEG signals from PFC** 
 
-<mark>PS 6a - Perceptron Classification </mark>
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) PS 6a - Perceptron Classification 
 
 ***PS 6b - Dimensionality Reduction of Motor Cortex Neurons during arm reaching task and decoding neural activity** 
 
