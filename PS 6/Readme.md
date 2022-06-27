@@ -1,6 +1,7 @@
 Solutions in PDF
 
-**mycode.m** has my code for analysis of Motor Cortex data. 
+**perceptron.m** has the code for perceptron classification and generation of the raw 2 cluster data. \
+**mycode.m** has my code for analysis of Motor Cortex data. **ReachData.mat** has the provided data from the Motor Cortex
 
 Selected plots displayed below
 
