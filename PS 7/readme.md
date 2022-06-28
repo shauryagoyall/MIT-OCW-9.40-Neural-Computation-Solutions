@@ -20,6 +20,6 @@ Same as above but input lasts 0.8s and not 1s
 
 ## Eigenmode Rates from markov matrix I constructed with input for 0.8s
 
-I do not know about the correctness of this so beware. 
+I do not know about the correctness of this so beware. Y Axis units are ???
 
 <img src="./images/eigen_markov.jpg" width=500>
