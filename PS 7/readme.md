@@ -15,7 +15,7 @@ eigenvalue corresponds to the eigenmode which was then transformed back to indiv
 
 Same as above but input lasts 0.8s and not 1s
 
-<img src="./images/neuron_given_0.8.jpg" width=500>
+<img src="./images/neuron_given_0.8s.jpg" width=500>
 
 
 ## Eigenmode Rates from markov matrix I constructed with input for 0.8s
