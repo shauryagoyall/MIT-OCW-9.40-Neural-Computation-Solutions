@@ -14,7 +14,8 @@ PS 4b - Estimation of spectro-temporal receptive fields (STRF) with spiketrigger
 PS 5 - Analyzing Epileptic vs Normal EEG signals from PFC \
 PS 6a - Perceptron Classification \
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) 
-PS 6b - Dimensionality Reduction of Motor Cortex Neurons during arm reaching task and decoding neural activity
+PS 6b - Dimensionality Reduction of Motor Cortex Neurons during arm reaching task and decoding neural activity \
+PS 7 - Analyzing and simulating the activity of Recurrent Networks
 
 ## Link to syllabus:
 
